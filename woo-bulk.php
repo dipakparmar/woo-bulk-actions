@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Woocommerc Bulk Actions
+Plugin Name: Woocommerce Bulk Actions
 Plugin URI: https://github.com/dipakparmar/woo-bulk-actions/archive/main.zip
 Description: Plugin to Add Cancel Bulk order option for Orders
 Version: 1.0.0
